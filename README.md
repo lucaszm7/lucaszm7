@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Aprendendo atualmente React & Unity /n
+Aprendendo atualmente React & Unity
 Sonhando com a volta as aulas da UFPel
 
 <!--

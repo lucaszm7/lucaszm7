@@ -2,7 +2,7 @@
  - Cursando Engenharia da computação na UFPel
  - E sonhando com a volta as aulas da UFPel
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaszm7&theme=vue)
 
 
 <!--

@@ -2,6 +2,9 @@
  - Cursando Engenharia da computação na UFPel
  - E sonhando com a volta as aulas da UFPel
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+
+
 <!--
 **lucaszm7/lucaszm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

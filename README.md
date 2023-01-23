@@ -1,7 +1,7 @@
 ### Olá! 👋
  - Cursando Engenharia da computação na UFPel 9/10
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaszm7&theme=vue)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaszm7&theme=vue) -->
 
 <div>
   <img width="300" alt="mine_online.png" src="https://user-images.githubusercontent.com/42661760/214112995-5328c1a7-b349-4948-9871-42c0cac1a9a4.png">

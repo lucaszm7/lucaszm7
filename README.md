@@ -1,5 +1,5 @@
 ### Olá! 👋
- - Cursando Engenharia da computação na UFPel 9/10
+ - Cursando Engenharia da computação na UFPel 10/10
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaszm7&theme=vue) -->
 

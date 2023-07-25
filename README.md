@@ -12,26 +12,9 @@
   <img width="250" alt="bin_packing" src="https://user-images.githubusercontent.com/42661760/214113066-62e37b16-5547-4962-87e9-7ac28041e73e.png">
   <img width="250" alt="tsp" src="https://user-images.githubusercontent.com/42661760/214113077-b889d499-1921-4082-a4c2-3bcf2ce32091.png">
   <img width="250" alt="game_engine" src="https://user-images.githubusercontent.com/42661760/217101858-da197afa-2736-49f2-9928-3f2f719b5a43.png">
-  <img width="250" alt="close2gl" src="https://user-images.githubusercontent.com/42661760/1c3f74c9-e566-428f-b9da-3bd766c35c63.png">
- 
+  <img width="250" alt="close2gl" src="https://github.com/lucaszm7/GameEngine/assets/42661760/0ba4179c-0127-40a5-ad38-887b9f384489">
  ![image](https://github.com/lucaszm7/lucaszm7/assets/42661760/1c3f74c9-e566-428f-b9da-3bd766c35c63)
 
- 
-<!-- ![image](https://user-images.githubusercontent.com/42661760/217101858-da197afa-2736-49f2-9928-3f2f719b5a43.png)
--->
 </div>
  
- <!--
-**lucaszm7/lucaszm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
